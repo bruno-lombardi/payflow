@@ -1,16 +1,38 @@
-# payflow
+<h1 align="center">
+    <img alt="Be The Hero" width="180px" src="./.github/payflow-logo.png" />
+</h1>
 
-A new Flutter project.
+<h4 align="center">
+  💵 PayFlow
+</h4>
 
-## Getting Started
+<p align="center">
+  <a href="#screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
+<p align="center">
+    <img alt="Payflow Home" width="300px" src="./.github/screenshot.jpg" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## :rocket: Tecnologias
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://firebase.google.com/)
+
+## 💻 Projeto
+
+Payflow é um aplicativo para Android e iOS que te ajuda a organizar suas despesas com boletos.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ by Bruno Lombardi, com a ajuda da maravilhosa 🚀 [Rocketseat](https://github.com/Rocketseat).
