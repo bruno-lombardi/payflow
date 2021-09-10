@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.payflow">
+    package="io.github.brunolombardi.payflow">
    <application
         android:label="payflow"
         android:icon="@mipmap/ic_launcher">
