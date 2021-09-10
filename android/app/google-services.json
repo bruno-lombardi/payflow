@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "911167751984",
+    "project_id": "payflow-7e091",
+    "storage_bucket": "payflow-7e091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911167751984:android:36b3793db90b07ecfdeaf5",
+        "android_client_info": {
+          "package_name": "io.github.brunolombardi.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911167751984-g8ivsmt0i48smb0vpd8rdn0ojofu2c56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.brunolombardi.payflow",
+            "certificate_hash": "d0b0dee41f849d7b95eb691ccd3451e7b6ec8cf0"
+          }
+        },
+        {
+          "client_id": "911167751984-p6k243tem747k3s2mtbcndkgujc0jqjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtwmPZnNFXuVbwbwiyDdKaQkDe42d_dNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911167751984-p6k243tem747k3s2mtbcndkgujc0jqjs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911167751984-j40qpregpea1vlul1mvc3g34de366c02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.brunolombardi.payflow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
