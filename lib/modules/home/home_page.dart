@@ -66,7 +66,9 @@ class _HomePageState extends State<HomePage> {
                 },
                 icon: Icon(Icons.home, color: AppColors.primary)),
             GestureDetector(
-              onTap: () {},
+              onTap: () {
+                Navigator.pushNamed(context, "/barcode");
+              },
               child: Container(
                 width: 56,
                 height: 56,
